@@ -12,7 +12,7 @@
      <key>kind</key>
      <string>software-package</string>
      <key>url</key>
-     <string>http://101.129.17.43:8099/ws/baoxiao.ipa</string>
+     <string>http://yygxfssc.xuntingyun.com:18070/CmccAcc.ipa</string>
     </dict>
     <dict>
      <key>kind</key>
@@ -20,7 +20,7 @@
      <key>needs-shine</key>
      <true/>
      <key>url</key>
-     <string>http://101.129.17.43/ws/cctv.png</string>
+     <string>http://yygxfssc.xuntingyun.com:18070/app57.png</string>
     </dict>
     <dict>
      <key>kind</key>
@@ -28,7 +28,7 @@
      <key>needs-shine</key>
      <true/>
      <key>url</key>
-     <string>http://101.129.17.43/ws/cctv.png</string>
+     <string>http://yygxfssc.xuntingyun.com:18070/app57.png</string>
     </dict>
    </array>
    <key>metadata</key>
